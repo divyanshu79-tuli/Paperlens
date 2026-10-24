@@ -1,0 +1,6 @@
+{
+  "name": "PaperLens - Academic Research Analyzer & Summarizer",
+  "description": "Expert academic research paper analyzer and technical summarizer powered by Gemini. Extracts executive summaries, methodology, technologies, step-by-step workflows, visual flowcharts, and real-world implications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
