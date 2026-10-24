@@ -1,4 +1,4 @@
-# 📄 PaperLens — AI Research Paper Analyzer
+# 📄 PaperLens — AI technical file & .md .txt Paper Analyzer
 
 > Deconstruct any research paper in seconds. From abstract to full technical dossier — powered by **Google Gemini AI**.
 
